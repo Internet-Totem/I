@@ -5,6 +5,6 @@ Happ: [Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 2. Добавить WhyPN в приложение:  
 для INCY: [добавить в INCY](incy://add/https://whypn.co?from_github)  
 для Happ: [добавить в Happ](happ://add/https://whypn.co?from_github)  
-добавить вручную: скопируйте `https://whypn.co`, откройте приложение и нажмите "Вставить из буффера обмена"  
+вручную: скопируйте `https://whypn.co`, откройте приложение и нажмите "Вставить из буффера обмена"  
 
 3. В приложении нажмите "Подключить устройство"
