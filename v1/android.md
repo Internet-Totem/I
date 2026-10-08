@@ -7,4 +7,4 @@ Happ: [Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 для Happ: [добавить в Happ](happ://add/https://whypn.net/?utm_term=android&utm_content=happ&utm_source=instruction-v1)  
 вручную: скопируйте `https://whypn.net`, откройте приложение и нажмите "Вставить из буффера обмена"  
 
-3. В приложении нажмите "Подключить устройство"
+3. В приложении нажмите "**Подключиться к whypn.net**"
