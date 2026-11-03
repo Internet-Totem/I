@@ -1,4 +1,4 @@
-## Перед установкой на Linux сначала рекомендуем установить [whypn.net](https://whypn.net) на смартфон
+**Перед установкой на Linux сначала рекомендуем установить [whypn.net](https://whypn.net) на смартфон**
 
 1. Установить приложение:  
 INCY x64: [GitHub (.deb)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64.deb), [GitHub (.rpm)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64.rpm), [GitHub (.zip) portable](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64-portable.zip)  

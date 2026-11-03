@@ -1,4 +1,4 @@
-## Перед установкой на macOS сначала рекомендуем установить [whypn.net](https://whypn.net) на смартфон
+**Перед установкой на macOS сначала рекомендуем установить [whypn.net](https://whypn.net) на смартфон**
 
 1. Установить приложение:  
 INCY: [GitHub (.dmg) ARM64](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-macos-arm64.dmg), [GitHub (.dmg) Intel](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-macos-intel.dmg)  
