@@ -1,3 +1,5 @@
+# Перед установкой на Windows сначала рекомендуем установить [whypn.net](https://whypn.net) на смартфон
+
 1. Установить приложение:  
 INCY: [GitHub (.exe)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-setup.exe), [GitHub (.zip) Portable](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-portable.zip)  
 Happ: [GitHub (.exe)](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)  
